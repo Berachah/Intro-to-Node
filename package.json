@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.16.2",
+  "description": "simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berachah/Intro-to-Node.git"
+  },
+  "author": "Berachah Kwarteng-Siaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berachah/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/Berachah/Intro-to-Node#readme"
+}
